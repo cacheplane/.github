@@ -15,7 +15,7 @@ Half of enterprise GenAI pilots never reach production. The gap isn't ambition �
 
 Signal-native streaming bridge to LangGraph — the Angular 20+ equivalent of `useStream()`. Drop it into a component, bind `messages()` directly in the template, get reactive access to tool calls, interrupts, and thread history.
 
-[Repository](https://github.com/cacheplane/angular-agent-framework) · [Docs](https://cacheplane.ai/docs)
+[Repository](https://github.com/cacheplane/angular-agent-framework) · [npm](https://www.npmjs.com/package/@cacheplane/angular) · [Docs](https://cacheplane.ai/docs)
 
 ### `@cacheplane/render`
 
@@ -38,4 +38,4 @@ Accessible, production-ready Angular chat components. The surface enterprise tea
 
 ---
 
-Evaluating LangGraph on Angular? Email us at [hello@cacheplane.ai](mailto:hello@cacheplane.ai) about the Pilot Program — we'll get your team from proof-of-concept to production in 90 days.
+Evaluating LangGraph on Angular? Our [Pilot-to-Prod Program](https://cacheplane.ai/pilot-to-prod) gets enterprise teams from proof-of-concept to production in 90 days.
