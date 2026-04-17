@@ -15,19 +15,19 @@ Half of enterprise GenAI pilots never reach production. The gap isn't ambition �
 
 Signal-native streaming bridge to LangGraph — the Angular 20+ equivalent of `useStream()`. Drop it into a component, bind `messages()` directly in the template, get reactive access to tool calls, interrupts, and thread history.
 
-[Repository](https://github.com/cacheplane/angular-agent-framework) · [npm](https://www.npmjs.com/package/@cacheplane/angular) · [Docs](https://cacheplane.ai/docs)
+[Overview](https://cacheplane.ai/angular) · [Repository](https://github.com/cacheplane/angular-agent-framework) · [npm](https://www.npmjs.com/package/@cacheplane/angular) · [Docs](https://cacheplane.ai/docs/agent/getting-started/introduction) · [API Reference](https://cacheplane.ai/docs/agent/api/agent)
 
 ### `@cacheplane/render`
 
 Generative UI on open standards. Your agents render interactive UI through Vercel's json-render and Google's A2UI — one library, no proprietary schema.
 
-[Docs](https://cacheplane.ai/docs)
+[Overview](https://cacheplane.ai/render) · [Docs](https://cacheplane.ai/docs/render/getting-started/introduction)
 
 ### `@cacheplane/chat`
 
 Accessible, production-ready Angular chat components. The surface enterprise teams keep rebuilding — shipped once, done right.
 
-[Docs](https://cacheplane.ai/docs)
+[Overview](https://cacheplane.ai/chat) · [Docs](https://cacheplane.ai/docs/chat/getting-started/introduction)
 
 ## Resources
 
