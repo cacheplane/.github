@@ -13,18 +13,18 @@ AI products keep rebuilding the same surfaces: an agent runtime, a chat shell, a
 
 | Capability | Project | Packages |
 |---|---|---|
-| Agents & workflows | [Dawn](https://github.com/cacheplane/dawnai) | `@dawn-ai/sdk` |
+| Agents & workflows | [B4.run](https://b4.run) | `@b4run/sdk` |
 | Agents, chat, generative UI (Angular) | [Angular Agent Framework](https://github.com/cacheplane/angular-agent-framework) | `@ngaf/langgraph`, `@ngaf/chat` |
 | Streaming parsers | [Cacheplane](https://github.com/cacheplane/cacheplane) | `@cacheplane/partial-json`, `@cacheplane/partial-markdown` |
 | Fast data grids | [Pretable](https://github.com/cacheplane/pretable) | `@pretable/core`, `@pretable/react` |
 
 ## Projects
 
-### Dawn — `dawnai`
+### B4.run — `@b4run/*`
 
-A TypeScript meta-framework for authoring agents and workflows. Filesystem-based route discovery, the `agent()` descriptor, route-local tools, per-route middleware, type generation, a local development runtime, and `dawn build` for producing LangGraph Platform deployment artifacts.
+A TypeScript meta-framework for authoring agents and workflows. Filesystem-based route discovery, the `agent()` descriptor, route-local tools, per-route middleware, type generation, a local development runtime, and `b4 build` for producing LangGraph Platform deployment artifacts.
 
-[Repository](https://github.com/cacheplane/dawnai)
+[Repository](https://github.com/cacheplane/b4run) · [Documentation](https://b4.run/docs)
 
 ### Angular Agent Framework — `@ngaf/*`
 
